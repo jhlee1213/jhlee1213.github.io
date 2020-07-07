@@ -3,6 +3,10 @@ title: "Resistivity_TNT_2020_Jan"
 author: "Jaehoon Lee"
 date: '2020 01 22'
 output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    fig_caption: true
 
 ---
 
