@@ -1,7 +1,7 @@
 ---
 title: "Resistivity_TNT_2020_Jan"
 author: "Jaehoon Lee"
-date: '2020 01 22'
+date: '2020 07 07'
 output: 
   prettydoc::html_pretty:
     theme: cayman
